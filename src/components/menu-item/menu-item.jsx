@@ -10,6 +10,8 @@ const Menuitem = ({title, imageUrl, size}) => (
             <div className="subtitle">
                 <h1 className='title'>{title.toUpperCase()}</h1>
                 <span className="subtitle">Shop Now</span>
+                <span className="subtitle">Test</span>
+
             </div>
         </div>
     </div>
